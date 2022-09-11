@@ -5,7 +5,7 @@ Documentación de productos Cosismo IoT
 
 ## Tabla de Contenido
 - [Hardware](#multimedia-capabilities)
-  - [tarjetas de Desarrollo / Dev Kits](#Dev kits)
+  - [tarjetas de Desarrollo / Dev Kits](#Dev-Kits)
 - [Elements](#elements)
   - [Canvas](#canvas)
 
