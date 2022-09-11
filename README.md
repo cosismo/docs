@@ -10,7 +10,9 @@ Documentación de productos Cosismo IoT
   - [ESP32 CAM](#esp32-cam)
   - [ESP32 Ethernet](#esp32-ethernet)
 - [Sensores](#sensores)
-  - [Acelerómetros](#acelerómetros) 
+  - [Acelerómetros](#acelerómetros)
+  - [Presencia](#presencia)
+  - [Acelerómetros](#distancia) 
 
 ## Tarjetas de desarrollo
 ### ESP32
@@ -27,6 +29,19 @@ Documentación de productos Cosismo IoT
 ## Sensores
 ### Acelerómetros
 
-### PIR y presencia
+### Presencia
 
 ### Distancia
+#### Ultrasónicos
+* [RCWL-1601](https://cosismo.github.io/docs/)
+### Ambiente
+#### Temperatura y humedad
+* [DHT11](https://cosismo.github.io/docs/)
+
+## Pantallas y LEDs
+### Pantallas
+### LEDs
+#### Direccionables
+* [Aro 12 LEDS WS2812](https://cosismo.github.io/docs/)
+
+
