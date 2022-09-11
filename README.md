@@ -8,6 +8,7 @@ Documentación de productos Cosismo IoT
 - [ESP32](#esp32)
   - [ESP32 Devkit](#esp32-devkit)
   - [ESP32 CAM](#esp32-cam)
+  - [ESP32 Ethernet](#esp32-ethernet)
 - [Sensores](#sensores)
   - [Acelerómetros](#acelerómetros) 
 
@@ -20,6 +21,12 @@ Documentación de productos Cosismo IoT
 #### ESP32 CAM
 * [ESP32CAM + tarjeta convertidor USB TTL externa](https://cosismo.github.io/docs/)
 * [ESP32CAM WROVER](https://cosismo.github.io/docs/)
+#### ESP32 Ethernet
+* [ESP32 Ethernet](https://cosismo.github.io/docs/)
 
 ## Sensores
 ### Acelerómetros
+
+### PIR y presencia
+
+### Distancia
