@@ -4,21 +4,14 @@ Cosismo | Documentación
 Documentación de productos Cosismo IoT
 
 ## Tabla de Contenido
-- [Articles and standards](#articles-and-standards)
-- [Multimedia capabilities](#multimedia-capabilities)
-  - [Audio](#audio)
+- [Hardware](#multimedia-capabilities)
+  - [tarjetas de Desarrollo / Dev Kits](#Dev kits)
 - [Elements](#elements)
   - [Canvas](#canvas)
 
-
-## Articles and standards
-
-* [HTML 5.3](https://w3c.github.io/html/) - Current HTML5 spec
-
-
 ## Multimedia capabilities
 
-### Audio
+### Dev Kits
 
 * [Getting started with the Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
 
