@@ -1,9 +1,9 @@
-Awesome HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)
+Cosismo | Documentación 
 =============
 
-A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python](https://github.com/vinta/awesome-python)
+Documentación de productos Cosismo IoT
 
-## Table of Contents
+## Table de Contenido
 - [Articles and standards](#articles-and-standards)
 - [Multimedia capabilities](#multimedia-capabilities)
   - [Audio](#audio)
