@@ -16,7 +16,7 @@ Documentación de productos Cosismo IoT
 
 ### ESP32
 
-* [ESP32 Devkit](https://www.html5rocks.com/es/tutorials/getusermedia/intro/)
+#### [ESP32 Devkit](https://www.html5rocks.com/es/tutorials/getusermedia/intro/)
 * [Using the media capture API](https://www.sitepoint.com/using-the-media-capture-api/)
 
 ### Picture in Picture
