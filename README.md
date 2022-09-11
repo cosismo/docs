@@ -21,7 +21,8 @@ Documentación de productos Cosismo IoT
 - [Kits](#kits)
   - [ESP32](#esp32)
   - [Componentes](#componentes)
-- [Levantar ticket de soporte](#soporte)
+- [Soporte Técnico](#soporte)
+  - [Levantar ticket de soporte](#levantar-ticket-de-soporte)
 
 
 ## Tarjetas de desarrollo
