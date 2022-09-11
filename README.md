@@ -4,12 +4,12 @@ Cosismo | Documentación
 Documentación de productos Cosismo IoT
 
 ## Tabla de Contenido
-- [Hardware](#multimedia-capabilities)
-  - [tarjetas de Desarrollo / Dev Kits](#Dev-Kits)
-- [Elements](#elements)
-  - [Canvas](#canvas)
 
-## Multimedia capabilities
+- [ESP32](#esp32)
+  - [ESP32 Devkit](#esp32-devkit)
+  - [ESP32 CAM](#esp32-cam)
+
+
 
 ### Dev Kits
 
