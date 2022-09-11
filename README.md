@@ -9,11 +9,12 @@ Documentación de productos Cosismo IoT
   - [ESP32 Devkit](#esp32-devkit)
   - [ESP32 CAM](#esp32-cam)
 - [Sensores](#sensores)
+  - [Acelerómetros](#acelerómetros) 
 
 ## Tarjetas de desarrollo
 ### ESP32
 #### ESP32 Devkit
-* [ESP32 Devkit  (DOIT y tipo C](https://cosismo.github.io/docs/)
+* [ESP32 Devkit  (DOIT y tipo C)](https://cosismo.github.io/docs/)
 * [ESP32 S3 Devkit](https://cosismo.github.io/docs/)
 * [ESP32 C3 Devkit](https://cosismo.github.io/docs/) 
 #### ESP32 CAM
@@ -21,3 +22,4 @@ Documentación de productos Cosismo IoT
 * [ESP32CAM WROVER](https://cosismo.github.io/docs/)
 
 ## Sensores
+### Acelerómetros
