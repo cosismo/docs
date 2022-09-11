@@ -6,7 +6,7 @@ Documentación de productos Cosismo IoT
 ## Tabla de Contenido
 
 - [ESP32](#ESP32)
-  - [ESP32 Devkit](#ESP32-Devkit)
+  - [ESP32 Devkit](#esp32-devkit)
   - [ESP32 CAM](#esp32-cam)
 
 
