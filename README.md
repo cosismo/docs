@@ -12,7 +12,13 @@ Documentación de productos Cosismo IoT
 - [Sensores](#sensores)
   - [Acelerómetros](#acelerómetros)
   - [Presencia](#presencia)
-  - [Acelerómetros](#distancia) 
+  - [Distancia](#distancia)
+  - [Ambiente](#ambiente) 
+- [Pantallas y LEDs](#pantallas-y-leds)
+  - Pantallas(#pantallas)
+  - LEDs(#leds)
+- [Kits](#kits)
+
 
 ## Tarjetas de desarrollo
 ### ESP32
