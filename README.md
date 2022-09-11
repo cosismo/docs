@@ -15,8 +15,8 @@ Documentación de productos Cosismo IoT
   - [Distancia](#distancia)
   - [Ambiente](#ambiente) 
 - [Pantallas y LEDs](#pantallas-y-leds)
-  - Pantallas(#pantallas)
-  - LEDs(#leds)
+  - [Pantallas](#pantallas)
+  - [LEDs](#leds)
 - [Kits](#kits)
 
 
@@ -34,6 +34,7 @@ Documentación de productos Cosismo IoT
 
 ## Sensores
 ### Acelerómetros
+* [ESP32 Ethernet](https://cosismo.github.io/docs/)
 
 ### Presencia
 
