@@ -16,8 +16,15 @@ Documentación de productos Cosismo IoT
 
 ### ESP32
 
-#### [ESP32 Devkit](https://www.html5rocks.com/es/tutorials/getusermedia/intro/)
-* [Using the media capture API](https://www.sitepoint.com/using-the-media-capture-api/)
+#### [ESP32 Devkit]
+* [ESP32 Devkit  (DOIT y tipo C](https://www.sitepoint.com/using-the-media-capture-api/)
+* [ESP32 S3 Devkit](https://www.sitepoint.com/using-the-media-capture-api/)
+* [ESP32 C3 Devkit](https://www.sitepoint.com/using-the-media-capture-api/)  
+
+#### [ESP32 CAM]
+* [ESP32CAM + tarjeta convertidor USB TTL externa](https://www.sitepoint.com/using-the-media-capture-api/)
+* [ESP32CAM WROVER](https://www.sitepoint.com/using-the-media-capture-api/)
+
 
 ### Picture in Picture
 
