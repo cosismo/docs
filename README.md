@@ -4,7 +4,7 @@ Cosismo | Documentación
 Documentación de productos Cosismo IoT
 
 ## Tabla de Contenido
-- [Tarjetas de desarrollo / Placas / Dev Kits] (tarjetas-de-desarrollo)
+- [Tarjetas de desarrollo / Placas / Dev Kits](#tarjetas-de-desarrollo)
 - [ESP32](#ESP32)
   - [ESP32 Devkit](#esp32-devkit)
   - [ESP32 CAM](#esp32-cam)
