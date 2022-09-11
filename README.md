@@ -5,10 +5,10 @@ Documentación de productos Cosismo IoT
 
 ## Tabla de Contenido
 - [Tarjetas de desarrollo / Placas / Dev Kits](#tarjetas-de-desarrollo)
-- [ESP32](#esp32)
-  - [ESP32 Devkit](#esp32-devkit)
-  - [ESP32 CAM](#esp32-cam)
-  - [ESP32 Ethernet](#esp32-ethernet)
+  - [ESP32](#esp32)
+    - [ESP32 Devkit](#esp32-devkit)
+    - [ESP32 CAM](#esp32-cam)
+    - [ESP32 Ethernet](#esp32-ethernet)
 - [Sensores](#sensores)
   - [Acelerómetros](#acelerómetros)
   - [Presencia](#presencia)
@@ -50,5 +50,9 @@ Documentación de productos Cosismo IoT
 ### LEDs
 #### Direccionables
 * [Aro 12 LEDS WS2812](https://cosismo.github.io/docs/)
+
+## Kits
+### Componentes
+### ESP32
 
 
