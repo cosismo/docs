@@ -55,4 +55,7 @@ Documentación de productos Cosismo IoT
 ### Componentes
 ### ESP32
 
+## Componentes
+### Pasivos
+### Activos
 
