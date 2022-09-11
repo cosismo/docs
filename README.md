@@ -5,20 +5,18 @@ Documentación de productos Cosismo IoT
 
 ## Tabla de Contenido
 
-- [ESP32](#esp32)
-  - [ESP32 Devkit](#esp32-devkit)
+- [ESP32](#ESP32)
+  - [ESP32 Devkit](#ESP32-Devkit)
   - [ESP32 CAM](#esp32-cam)
 
 
 
-### Dev Kits
-
-* [Getting started with the Web Audio API](https://www.html5rocks.com/en/tutorials/webaudio/intro/?redirect_from_locale=es)
 
 
-### Media Capture
 
-* [Capturing Audio & Video in HTML5](https://www.html5rocks.com/es/tutorials/getusermedia/intro/)
+### ESP32
+
+* [ESP32 Devkit](https://www.html5rocks.com/es/tutorials/getusermedia/intro/)
 * [Using the media capture API](https://www.sitepoint.com/using-the-media-capture-api/)
 
 ### Picture in Picture
