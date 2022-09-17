@@ -35,7 +35,11 @@ Documentación de productos Cosismo IoT
 * [ESP32CAM + tarjeta convertidor USB TTL externa](https://cosismo.github.io/esp32-cam/)
 * [ESP32CAM WROVER](https://cosismo.github.io/esp32-cam/)
 #### ESP32 Ethernet
-* [ESP32 Ethernet](https://github.com/khoih-prog/WebServer_WT32_ETH01)
+* Éste módulo originalmente está pensado como un módem ethernet-serial ttl controlado por comandos AT. De fábrica trae instalado un firmware para ello. Puedes leer la documentación aquí (al final hay dos pdfs, datasheet y comandos AT): [ESP32 Ethernet](https://www.seeedstudio.com/Ethernet-module-based-on-ESP32-series-WT32-ETH01-p-4736.html)
+ El firmware no es libre, pero existe una librería que permite programar la placa con Arduino. [Librería Arduino](https://github.com/khoih-prog/WebServer_WT32_ETH01) ten en cuenta qeu si la programas con Arduino no se podrá recuperar el firmware original, aunque la librería es mucho más completa y flexible. 
+Para pogramarlo o interactuar con esta placa necesitas un convertidor USB-TTL a 3.3v como el ch340 o similares.  Para usar el firmware original de comandos AT se conecta a los pines RXD y TXD (cruzados hacia la PC). Si usas el serial monitor de Arduino utiliza 115200, "Both NL&CR". al mandar el comando "AT" te regresará OK si todo es correcto. También al conectar al ethernet tomará una IP por DHCP, para verificarlo manda el comando "AT+CIPETH_DEF?"  
+Para programarlo con Arduino hay que conectarse a los pines TX0 y RX0 y hacer un puente entre GND e IO0 antes de energizar la placa.  
+EN los dos casos se energiza con 5V. Importante es notar que se energiza con 5V pero los pines GPIO funcionan a 3.3V. No uses %V par alos GPIOs porque puedes dañarlo; así mismo no alimentes con 3.3V orqeu puede ser insuficiente para alimentar el módulo.
 
 ## Sensores
 ### Acelerómetros
