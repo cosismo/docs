@@ -32,8 +32,8 @@ Documentación de productos Cosismo IoT
 * [ESP32 S3 Devkit](https://cosismo.github.io/docs/)
 * [ESP32 C3 Devkit](https://cosismo.github.io/docs/) 
 #### ESP32 CAM
-* [ESP32CAM + tarjeta convertidor USB TTL externa](https://cosismo.github.io/docs/)
-* [ESP32CAM WROVER](https://cosismo.github.io/docs/)
+* [ESP32CAM + tarjeta convertidor USB TTL externa](https://cosismo.github.io/esp32-cam/)
+* [ESP32CAM WROVER](https://cosismo.github.io/esp32-cam/)
 #### ESP32 Ethernet
 * [ESP32 Ethernet](https://github.com/khoih-prog/WebServer_WT32_ETH01)
 
