@@ -65,6 +65,6 @@ Documentación de productos Cosismo IoT
 ### Activos
 
 ## Soporte
-* [Levantar ticket de soporte](https://cosismo.github.io/docs/)
+* [Levantar ticket de soporte]([https://cosismo.github.io/docs/](https://docs.google.com/forms/d/e/1FAIpQLSfQZ-D-aTh0BjX7JpnXqClg9zYEThP5shqdUF2iM632KE8zrA/viewform))
 
 
