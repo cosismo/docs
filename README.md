@@ -28,8 +28,8 @@ Documentación de productos Cosismo IoT
 ## Tarjetas de desarrollo
 ### ESP32
 #### ESP32 Devkit
-* [ESP32 Devkit  (DOIT y tipo C)](https://cosismo.github.io/docs/)
-* [ESP32 S3 Devkit](https://cosismo.github.io/docs/)
+* [ESP32 Devkit  (DOIT y tipo C)](https://cosismo.github.io/esp32-devkit/)
+* [Página con información sobre el ESP32 S3 Devkit](https://cosismo.github.io/esp32-s3/)
 * [ESP32 C3 Devkit](https://cosismo.github.io/docs/) 
 #### ESP32 CAM
 * [ESP32CAM + tarjeta convertidor USB TTL externa](https://cosismo.github.io/esp32-cam/)
