@@ -56,6 +56,8 @@ En los dos casos se energiza con 5V. Importante es notar que se energiza con 5V 
 
 ## Pantallas y LEDs
 ### Pantallas
+#### ESP32 CAM
+* Pantalla Oled Display 0.96 Pulgadas Azul 128x64 I2c Ssd1306 [Ejemplo para conectarla con el ESP32 con Arduino IDE](https://randomnerdtutorials.com/esp32-ssd1306-oled-display-arduino-ide/)
 ### LEDs
 #### Direccionables
 * [Aro 12 LEDS WS2812](https://cosismo.github.io/docs/)
